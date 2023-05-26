@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-pargraph1 {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.main-heading {
+    color: #5a7184;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main-pargraph {
+    color: #5a7184;
+    font-size: 14px;
+}
+
+.follow-us-icon-container {
+    background-color: #152c36;
+    border-radius: 40px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 3px;
+}
+
+#googlecard1 {
+    color: #5a7184;
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+
+#googlecard2 {
+    color: #5a7184;
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+
+#googlecard3 {
+    color: #5a7184;
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+
+.hr-line {
+    background-color: white;
+}
+
+#googlecard4 {
+    color: #5a7184;
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+
+.google-card4 {
+    color: #5a7184;
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+
+.main-image {
+    height: 60px;
+    width: 50%;
+}
+
+.bg-container {
+    background-color: #0d2436;
+
+}
